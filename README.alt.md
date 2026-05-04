@@ -5,15 +5,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-light.svg">
+    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <strong>Frontend / Mobile Architect</strong> · React · React Native · TypeScript<br/>
-  <sub>Santa Marta, CO · UTC−5 · Available for consulting</sub>
+  <sub>Santa Marta, CO · UTC-5 · Available for consulting</sub>
 </p>
 
 ---
@@ -30,7 +30,7 @@ Trabajo en **arquitectura modular**, **migraciones incrementales** y **design sy
 ---
 
 <p align="center">
-  <img alt="Activity calendar" src="./.github/metrics/github-metrics-calendar.svg" width="80%" />
+  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg" width="80%" />
 </p>
 
 ---

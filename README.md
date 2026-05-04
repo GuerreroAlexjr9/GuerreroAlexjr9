@@ -1,14 +1,14 @@
 <!--
   Alex Guerrero — GitHub Profile
   Frontend / Mobile Architect · React · React Native · TypeScript
-  Available for consulting · Santa Marta, CO (UTC−5)
+  Available for consulting · Santa Marta, CO (UTC-5)
 -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-light.svg">
+    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -17,7 +17,7 @@
     <img alt="Available for consulting" src="https://img.shields.io/badge/Available%20for-Consulting-22C55E?style=flat-square&labelColor=0B0F19" />
   </a>
   <img alt="Based in Santa Marta, CO" src="https://img.shields.io/badge/Based%20in-Santa%20Marta%2C%20CO-38BDF8?style=flat-square&labelColor=0B0F19" />
-  <img alt="UTC−5" src="https://img.shields.io/badge/Timezone-UTC%E2%88%925-94A3B8?style=flat-square&labelColor=0B0F19" />
+  <img alt="UTC-5" src="https://img.shields.io/badge/Timezone-UTC-5-94A3B8?style=flat-square&labelColor=0B0F19" />
   <img alt="Open to remote" src="https://img.shields.io/badge/Open%20to-Remote-818CF8?style=flat-square&labelColor=0B0F19" />
 </p>
 
@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-  <img alt="Flagship CI" src="https://img.shields.io/github/actions/workflow/status/GuerreroAlexjr9/react-architecture-playground/ci.yml?branch=main&label=react-architecture-playground%20%C2%B7%20CI&style=flat-square&labelColor=0B0F19" />
-  <img alt="License" src="https://img.shields.io/github/license/GuerreroAlexjr9/react-architecture-playground?style=flat-square&labelColor=0B0F19" />
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Architecture%20%C2%B7%20Migrations%20%C2%B7%20Design%20Systems-38BDF8?style=flat-square&labelColor=0B0F19" />
+  <img alt="Stack" src="https://img.shields.io/badge/Stack-React%20%C2%B7%20React%20Native%20%C2%B7%20TypeScript-818CF8?style=flat-square&labelColor=0B0F19" />
 </p>
 
 ---
@@ -149,12 +149,12 @@ flowchart LR
 ## Métricas
 
 <p align="center">
-  <img alt="GitHub metrics" src="./.github/metrics/github-metrics.svg" />
+  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics.svg" />
 </p>
 
 <p align="center">
-  <img alt="Languages" src="./.github/metrics/github-metrics-langs.svg" width="49%" />
-  <img alt="Activity calendar" src="./.github/metrics/github-metrics-calendar.svg" width="49%" />
+  <img alt="Languages" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-langs.svg" width="49%" />
+  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg" width="49%" />
 </p>
 
 <sub>Generado automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · refresco diario.</sub>
@@ -208,84 +208,3 @@ Available for **remote engagements** — product teams, internal platforms and f
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alexjrguerrero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" />
   </a>
 </p>
-<!--
-Perfil: Alex Guerrero (GuerreroAlexjr9)
-Objetivo: posicionamiento como Arquitecto Frontend/Mobile + consultoría
--->
-
-<p align="center">
-  <img src="./assets/hero.png" alt="Alex Guerrero — Frontend/Mobile Architect" />
-</p>
-
-<h1 align="center">Alex Guerrero</h1>
-
-<p align="center">
-  <strong>Arquitecto Frontend/Mobile</strong> · React / React Native · TypeScript · Arquitectura modular · Migraciones enterprise
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_HANDLE/">LinkedIn</a> ·
-  <a href="mailto:TU_EMAIL@DOMINIO.com">Email</a> ·
-  <a href="https://github.com/GuerreroAlexjr9/react-architecture-playground">Proyecto insignia</a>
-</p>
-
-<p align="center">
-  <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/GuerreroAlexjr9/react-architecture-playground/ci.yml?branch=main" />
-  <img alt="License" src="https://img.shields.io/github/license/GuerreroAlexjr9/react-architecture-playground" />
-</p>
-
-## Sobre mí
-
-Soy **Arquitecto Frontend/Mobile** con foco en construir y evolucionar aplicaciones **enterprise** en **React** y **React Native** (TypeScript-first).
-
-Trabajo con arquitecturas modulares y participo en iniciativas de **modernización y migración** en entornos de alta exigencia, priorizando compatibilidad, performance, trazabilidad y calidad sin frenar el delivery.
-
-### En qué te puedo ayudar
-
-- **Arquitectura Frontend/Mobile**: estructura por dominios (feature-based), boundaries, convenciones y guardrails.
-- **Migraciones sin trauma**: legacy → arquitecturas modernas, estrategias incrementales y control de riesgo.
-- **Design Systems**: componentes reutilizables, accesibilidad y consistencia para equipos grandes.
-- **Testing & Quality**: unit/integration testing, CI y reducción de regresiones.
-- **Performance**: optimización de carga y navegación, medición y budgets.
-
-## Stack principal
-
-**Core**
-- React · React Native · TypeScript · Next.js
-- Arquitectura modular · Design Systems · Testing (Vitest/Jest)
-
-**Plataforma**
-- GraphQL/REST · AWS/Firebase · CI/CD (GitHub Actions)
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
-</p>
-
-## Proyectos destacados
-
-- **react-architecture-playground** → arquitectura escalable (feature-based), route guards, store, testing, CI y docs.
-  - Repo: https://github.com/GuerreroAlexjr9/react-architecture-playground
-  - Docs: `/docs/spec.md` · `/docs/architecture.md` · `/docs/decisions.md`
-
-> Siguiente (en construcción):
-> - react-native-architecture-playground
-> - design-system-starter
-
-## Arquitectura de referencia
-
-```mermaid
-flowchart LR
-  UI[UI: Web / Mobile] --> Router[Routing & Navigation]
-  Router --> Features[Features (dominios)]
-  Features --> Shared[Shared (UI Kit / utils)]
-  Features --> State[State (Zustand/Redux)]
-  Features --> Services[Services (API Layer)]
-  Services --> API[(Backend / BFF)]
-  State --> Tests[Tests (unit/integration)]
-  Services --> Tests
-  Shared --> Tests
