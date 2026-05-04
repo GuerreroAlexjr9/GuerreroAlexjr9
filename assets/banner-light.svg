@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Alex Guerrero — Frontend/Mobile Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#CBD5E1" stroke-width="0.5" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <rect x="80" y="92" width="4" height="136" fill="url(#accent)" rx="2"/>
+
+  <text x="104" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" fill="#475569" letter-spacing="2">
+    FRONTEND · MOBILE · ARCHITECTURE
+  </text>
+
+  <text x="104" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="44" font-weight="700" fill="#0F172A">
+    Alex Guerrero
+  </text>
+
+  <text x="104" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="20" fill="#334155">
+    React · React Native · TypeScript · Enterprise Architecture
+  </text>
+
+  <g transform="translate(104, 232)">
+    <rect width="12" height="12" rx="6" fill="#16A34A"/>
+    <circle cx="6" cy="6" r="6" fill="#16A34A" opacity="0.35"/>
+    <text x="22" y="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#475569">
+      Available for consulting · Santa Marta, CO · UTC−5
+    </text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0.95">
+    <text x="900" y="120" fill="#94A3B8">// scope</text>
+    <text x="900" y="144" fill="#334155">architecture<tspan fill="#94A3B8">:</tspan> <tspan fill="#0EA5E9">"feature-based"</tspan></text>
+    <text x="900" y="168" fill="#334155">testing<tspan fill="#94A3B8">:</tspan> <tspan fill="#0EA5E9">"first-class"</tspan></text>
+    <text x="900" y="192" fill="#334155">migrations<tspan fill="#94A3B8">:</tspan> <tspan fill="#0EA5E9">"incremental"</tspan></text>
+    <text x="900" y="216" fill="#334155">design_system<tspan fill="#94A3B8">:</tspan> <tspan fill="#0EA5E9">"composable"</tspan></text>
+    <text x="900" y="240" fill="#334155">delivery<tspan fill="#94A3B8">:</tspan> <tspan fill="#0EA5E9">"enterprise"</tspan></text>
+  </g>
+</svg>

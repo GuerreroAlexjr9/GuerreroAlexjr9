@@ -1,0 +1,70 @@
+name: Metrics
+
+on:
+  # Refresh once a day (UTC)
+  schedule: [{ cron: "0 6 * * *" }]
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: [".github/workflows/metrics.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  # 1. Header + activity + lines (the "main" card)
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: .github/metrics/github-metrics.svg
+          user: GuerreroAlexjr9
+          template: classic
+          base: header, activity, repositories
+          base_indepth: yes
+          config_timezone: America/Bogota
+          config_padding: 0, 4 + 11%
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 12
+
+  # 2. Languages (in-depth, bytes + percentage, no noise)
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: .github/metrics/github-metrics-langs.svg
+          user: GuerreroAlexjr9
+          base: ""
+          config_timezone: America/Bogota
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: >-
+            html, css, scss, sass, less, shell, dockerfile, makefile,
+            tex, mdx, markdown, jupyter notebook
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+  # 3. Half-year heatmap (premium look, replaces noisy stats cards)
+  isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: .github/metrics/github-metrics-calendar.svg
+          user: GuerreroAlexjr9
+          base: ""
+          config_timezone: America/Bogota
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
