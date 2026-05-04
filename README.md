@@ -5,11 +5,9 @@
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-light.svg">
-    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/GuerreroAlexjr9">
+    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.svg?v=2" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +15,7 @@
     <img alt="Available for consulting" src="https://img.shields.io/badge/Available%20for-Consulting-22C55E?style=flat-square&labelColor=0B0F19" />
   </a>
   <img alt="Based in Santa Marta, CO" src="https://img.shields.io/badge/Based%20in-Santa%20Marta%2C%20CO-38BDF8?style=flat-square&labelColor=0B0F19" />
-  <img alt="UTC-5" src="https://img.shields.io/badge/Timezone-UTC-5-94A3B8?style=flat-square&labelColor=0B0F19" />
+  <img alt="UTC-5" src="https://img.shields.io/badge/Timezone-UTC--5-94A3B8?style=flat-square&labelColor=0B0F19" />
   <img alt="Open to remote" src="https://img.shields.io/badge/Open%20to-Remote-818CF8?style=flat-square&labelColor=0B0F19" />
 </p>
 
@@ -149,12 +147,12 @@ flowchart LR
 ## Métricas
 
 <p align="center">
-  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics.svg" />
+  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics.svg?v=2" />
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-langs.svg" width="49%" />
-  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg" width="49%" />
+  <img alt="Languages" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-langs.svg?v=2" width="49%" />
+  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg?v=2" width="49%" />
 </p>
 
 <sub>Generado automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · refresco diario.</sub>
