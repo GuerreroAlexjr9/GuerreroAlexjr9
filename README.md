@@ -5,9 +5,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/GuerreroAlexjr9">
-    <img alt="Alex Guerrero — Frontend/Mobile Architect" src="assets/banner-dark.svg" width="100%" />
-  </a>
+  <img alt="Alex Guerrero — Frontend/Mobile Architect" src="assets/banner-dark.png" width="100%" />
 </p>
 
 <p align="center">
