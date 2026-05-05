@@ -4,29 +4,31 @@
   Available for consulting · Santa Marta, CO (UTC-5)
 -->
 
-<p align="center">
-  <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.png" width="100%" />
+<div align="center">
+
+<a href="https://github.com/GuerreroAlexjr9">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=60&lines=Alex+Guerrero;Frontend+%2F+Mobile+Architect;React+%C2%B7+React+Native+%C2%B7+TypeScript;Available+for+consulting" alt="Alex Guerrero — Frontend/Mobile Architect" />
+</a>
+
+<br/>
+
+<p>
+  <em>Architecture · Migrations · Design Systems · Performance · Consulting</em>
 </p>
 
-<p align="center">
-  <a href="mailto:guerreroalexjr@gmail.com">
-    <img alt="Available for consulting" src="https://img.shields.io/badge/Available%20for-Consulting-22C55E?style=flat-square&labelColor=0B0F19" />
-  </a>
-  <img alt="Based in Santa Marta, CO" src="https://img.shields.io/badge/Based%20in-Santa%20Marta%2C%20CO-38BDF8?style=flat-square&labelColor=0B0F19" />
-  <img alt="UTC-5" src="https://img.shields.io/badge/Timezone-UTC--5-94A3B8?style=flat-square&labelColor=0B0F19" />
-  <img alt="Open to remote" src="https://img.shields.io/badge/Open%20to-Remote-818CF8?style=flat-square&labelColor=0B0F19" />
+<p>
+  <a href="mailto:guerreroalexjr@gmail.com"><img alt="Available" src="https://img.shields.io/badge/Available-Consulting-22C55E?style=for-the-badge&labelColor=0B0F19"/></a>
+  <img alt="Location" src="https://img.shields.io/badge/Santa%20Marta-Colombia-38BDF8?style=for-the-badge&labelColor=0B0F19"/>
+  <img alt="Timezone" src="https://img.shields.io/badge/UTC--5-Remote-818CF8?style=for-the-badge&labelColor=0B0F19"/>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/alexjrguerrero">LinkedIn</a> ·
   <a href="mailto:guerreroalexjr@gmail.com">Email</a> ·
   <a href="https://github.com/GuerreroAlexjr9/react-architecture-playground">Flagship repo</a>
 </p>
 
-<p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Architecture%20%C2%B7%20Migrations%20%C2%B7%20Design%20Systems-38BDF8?style=flat-square&labelColor=0B0F19" />
-  <img alt="Stack" src="https://img.shields.io/badge/Stack-React%20%C2%B7%20React%20Native%20%C2%B7%20TypeScript-818CF8?style=flat-square&labelColor=0B0F19" />
-</p>
+</div>
 
 ---
 
@@ -145,15 +147,19 @@ flowchart LR
 ## Métricas
 
 <p align="center">
-  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics.svg" />
+  <a href="https://github.com/GuerreroAlexjr9">
+    <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GuerreroAlexjr9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0F19&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&hide=issues" />
+  </a>
+  <a href="https://github.com/GuerreroAlexjr9">
+    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreroAlexjr9&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=38BDF8&text_color=CBD5E1" />
+  </a>
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-langs.svg" width="49%" />
-  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg" width="49%" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=GuerreroAlexjr9&hide_border=true&background=0B0F19&stroke=0B0F19&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
 </p>
 
-<sub>Generado automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · refresco diario.</sub>
+<sub align="center">Stats: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · Streak: <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
 
 ---
 
