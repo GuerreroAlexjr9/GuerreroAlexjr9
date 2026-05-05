@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img alt="Alex Guerrero — Frontend/Mobile Architect" src="assets/banner-dark.png" width="100%" />
+  <img alt="Alex Guerrero — Frontend/Mobile Architect" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/assets/banner-dark.png" width="100%" />
 </p>
 
 <p align="center">
@@ -145,12 +145,12 @@ flowchart LR
 ## Métricas
 
 <p align="center">
-  <img alt="GitHub metrics" src=".github/metrics/github-metrics.svg" />
+  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics.svg" />
 </p>
 
 <p align="center">
-  <img alt="Languages" src=".github/metrics/github-metrics-langs.svg" width="49%" />
-  <img alt="Activity calendar" src=".github/metrics/github-metrics-calendar.svg" width="49%" />
+  <img alt="Languages" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-langs.svg" width="49%" />
+  <img alt="Activity calendar" src="https://raw.githubusercontent.com/GuerreroAlexjr9/GuerreroAlexjr9/main/.github/metrics/github-metrics-calendar.svg" width="49%" />
 </p>
 
 <sub>Generado automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · refresco diario.</sub>
